@@ -4,19 +4,22 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Ph.D. student in the CSE Dept. at [IIT Jodhpur](https://iitj.ac.in/), specializing in Multimodal Document image analysis (with a focus on table image understanding). Before that, I obtained my Master's degree in Computer Science and Engineering at [IIT Dhanbad](https://www.iitism.ac.in/), India.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Natural Language Understanding:** Indic and ASEAN Languages, Cross-Lingual Understanding
+- **Computer Vision:** Table Image Understanding, Visual Reading Comprehension, Visual Question Answering
+- **Machine Learning:** Active Learning
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Oct. 2026]** Appointed as Research Associate - 1 under Prof. Mayank Singh in IIT Gandhinagar.
+- **[July. 2026]** PhD Thesis Submitted
+- **[July. 2026]** Our paper about Cross-Lingual (ASEAN Language) Table understanding is accepted to ACL 2026.
+- **[Nov. 2025]** Our paper about Cross-Lingual (Indic Language) Table understanding has been accepted to the MRL Workshop (EMNLP 2026).
+- **[Sept. 2025]** Our paper "Table Detection with Active Learning" is accepted to ICDAR 2025.
+- **[Apr. 2025]** Our paper about Visual Table Reading Comprehension is accepted to NAACL 2025.
 
 {% include_relative _includes/publications.md %}
 
