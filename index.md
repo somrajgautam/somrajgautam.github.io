@@ -12,9 +12,9 @@ I am a Ph.D. student in the CSE Dept. at [IIT Jodhpur](https://iitj.ac.in/), spe
 - **Computer Vision:** Table Image Understanding, Visual Question Answering
 - **Machine Learning:** Active Learning
 
-<div style="border-left: 4px solid #FF5F05; padding: 10px 16px; background-color: #fafafa; color: #333; border-radius: 0 4px 4px 0; box-shadow: 0 1px 4px rgba(0,0,0,0.07);">
+<!-- <div style="border-left: 4px solid #FF5F05; padding: 10px 16px; background-color: #fafafa; color: #333; border-radius: 0 4px 4px 0; box-shadow: 0 1px 4px rgba(0,0,0,0.07);">
 <strong style="color:#c0392b;"> I am looking for a PostDoc position.</strong>
-</div>
+</div> -->
 
 ## News
 
