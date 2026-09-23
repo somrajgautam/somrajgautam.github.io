@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student in the CSE Dept. at [IIT Jodhpur](https://iitj.ac.in/), specializing in Multimodal Document image analysis (with a focus on table image understanding). Before that, I obtained my Master's degree in Computer Science and Engineering from [IIT Dhanbad](https://www.iitism.ac.in/), India.
+I am a Ph.D. student in the CSE Dept. at [IIT Jodhpur](https://iitj.ac.in/), specializing in Multimodal Document image analysis (with a focus on table image understanding). Before that, I obtained my Master's degree in Computer Science and Engineering from [IIT Dhanbad](https://www.iitism.ac.in/), and a Bachelor's degree from [BIET Jhansi](https://bietjhs.ac.in/), India.
 
 ## Research Interests
 
