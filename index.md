@@ -24,3 +24,5 @@ I am a Ph.D. student in the CSE Dept. at [IIT Jodhpur](https://iitj.ac.in/), spe
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
+
+{% include_relative _includes/teaching.md %}
