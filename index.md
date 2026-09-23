@@ -17,7 +17,7 @@ I am a Ph.D. student in the CSE Dept. at [IIT Jodhpur](https://iitj.ac.in/), spe
 - **[Oct. 2026]** Appointed as Research Associate - 1 under Prof. Mayank Singh in IIT Gandhinagar.
 - **[July. 2026]** PhD Thesis Submitted
 - **[July. 2026]** Our paper about Cross-Lingual (ASEAN Language) Table understanding is accepted to ACL 2026.
-- **[Nov. 2025]** Our paper about Cross-Lingual (Indic Language) Table understanding has been accepted to the MRL Workshop (EMNLP 2026).
+- **[Nov. 2025]** Our paper about Cross-Lingual (Indic Language) Table understanding is accepted to the MRL Workshop (EMNLP 2026).
 - **[Sept. 2025]** Our paper "Table Detection with Active Learning" is accepted to ICDAR 2025.
 - **[Apr. 2025]** Our paper about Visual Table Reading Comprehension is accepted to NAACL 2025.
 
