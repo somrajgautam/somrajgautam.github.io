@@ -9,7 +9,7 @@ I am a Ph.D. student in the CSE Dept. at [IIT Jodhpur](https://iitj.ac.in/), spe
 ## Research Interests
 
 - **Natural Language Understanding:** Indic and ASEAN Languages, Cross-Lingual Understanding
-- **Computer Vision:** Table Image Understanding, Reading Comprehension, Visual Question Answering
+- **Computer Vision:** Table Image Understanding, Visual Question Answering
 - **Machine Learning:** Active Learning
 
 ## News
