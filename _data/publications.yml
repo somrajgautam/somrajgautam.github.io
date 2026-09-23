@@ -6,7 +6,7 @@ main:
     pdf: https://aclanthology.org/2026.findings-acl.1105.pdf
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:axE6JW38cfEJ:scholar.google.com/&output=citation&scisdr=CiCrpkIGEN2CiAxi54g:ACTRDVEAAAAAarNk_4gXJeQnuLQbhUVW9N2ALbs&scisig=ACTRDVEAAAAAarNk_7-RJroi-kSIuCseyRcpMy8&scisf=4&ct=citation&cd=-1&hl=en
     notes: Poster Presentation
-    image: ./assets/img/indotabvqa.png
+    image: ./assets/img/indotabvqa.jpg
 
   - title: "Mind the (language) gap: Towards probing numerical and cross-lingual limits of lvlms"
     authors: <strong>Somraj Gautam*</strong>, Abhirama Subramanyam Penamakuri*, Abhishek Bhandari, Gaurav Harit
@@ -15,7 +15,7 @@ main:
     pdf: https://aclanthology.org/2025.mrl-main.38.pdf
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:PaqiGL9qz08J:scholar.google.com/&output=citation&scisdr=CiCrpkIGEN2CiAxik_s:ACTRDVEAAAAAarNki_v9WFJvsLm6uMQyK4oFeQg&scisig=ACTRDVEAAAAAarNkiyNHx-NiBK13nudwp4JrJXM&scisf=4&ct=citation&cd=-1&hl=en
     notes: Poster Presentation
-    image: ./assets/img/mrl.png
+    image: ./assets/img/mrl.jpg
     
   - title: "Table Detection with Active Learning"
     authors: <strong>Somraj Gautam*</strong>, Nachiketa Purohit, Gaurav Harit
@@ -24,7 +24,7 @@ main:
     pdf: https://arxiv.org/pdf/2509.20003?
     bibtex: https://citation-needed.springer.com/v2/references/10.1007/978-3-032-04624-6_8?format=bibtex&flavour=citation
     notes: Early Accept (Poster Presentation)
-    image: ./assets/img/tdal.png
+    image: ./assets/img/tdal.jpg
 
   - title: "TabComp: A Dataset for Visual Table Reading Comprehension"
     authors: <strong>Somraj Gautam</strong>, Abhishek Bhandari, Gaurav Harit
@@ -33,4 +33,4 @@ main:
     pdf: https://aclanthology.org/2025.findings-naacl.320.pdf
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:IDLYIO5lT_EJ:scholar.google.com/&output=citation&scisdr=CiCrpkIGEN2CiAxjei4:ACTRDVEAAAAAarNlYi6c_C1BoAs9LJmAFM5f6-c&scisig=ACTRDVEAAAAAarNlYiSXkxgKcNJ8j2LvZIukiHU&scisf=4&ct=citation&cd=-1&hl=en
     notes: Poster Presentation
-    image: ./assets/img/tabcomp.png
+    image: ./assets/img/tabcomp.jpg
