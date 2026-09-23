@@ -1,4 +1,20 @@
 main:
+  - title: "Fragmented Financials ♢: Graph-Augmented Reasoning Across Multiple Financial Tables"
+    authors: <strong>Somraj Gautam*</strong>, Abhishek Bhandari, Gaurav Harit
+    conference_short: Under Review
+    conference: Under Review
+    pdf: null
+    bibtex: null
+    image: ./assets/img/fragment.png
+  
+  - title: "Cycle-of-Thought: Self-Evaluative Iterative Reasoning for Table Visual Question Answering in Document Images"
+    authors: <strong>Somraj Gautam*</strong>, Gaurav Harit
+    conference_short: Under Review
+    conference: Under Review
+    pdf: null
+    bibtex: null
+    image: ./assets/img/cycle.png
+    
   - title: "INDOTABVQA: A Benchmark for Cross-Lingual Table Understanding in Bahasa Indonesia Documents"
     authors: <strong>Somraj Gautam*</strong>, Anathapindika Dravichi, Gaurav Harit
     conference_short: ACL
@@ -6,7 +22,7 @@ main:
     pdf: https://aclanthology.org/2026.findings-acl.1105.pdf
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:axE6JW38cfEJ:scholar.google.com/&output=citation&scisdr=CiCrpkIGEN2CiAxi54g:ACTRDVEAAAAAarNk_4gXJeQnuLQbhUVW9N2ALbs&scisig=ACTRDVEAAAAAarNk_7-RJroi-kSIuCseyRcpMy8&scisf=4&ct=citation&cd=-1&hl=en
     notes: Poster Presentation
-    image: ./assets/img/indotabvqa.jpg
+    image: ./assets/img/indotabvqa.png
 
   - title: "Mind the (language) gap: Towards probing numerical and cross-lingual limits of lvlms"
     authors: <strong>Somraj Gautam*</strong>, Abhirama Subramanyam Penamakuri*, Abhishek Bhandari, Gaurav Harit
@@ -15,7 +31,7 @@ main:
     pdf: https://aclanthology.org/2025.mrl-main.38.pdf
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:PaqiGL9qz08J:scholar.google.com/&output=citation&scisdr=CiCrpkIGEN2CiAxik_s:ACTRDVEAAAAAarNki_v9WFJvsLm6uMQyK4oFeQg&scisig=ACTRDVEAAAAAarNkiyNHx-NiBK13nudwp4JrJXM&scisf=4&ct=citation&cd=-1&hl=en
     notes: Poster Presentation
-    image: ./assets/img/mrl.jpg
+    image: ./assets/img/mrl.png
     
   - title: "Table Detection with Active Learning"
     authors: <strong>Somraj Gautam*</strong>, Nachiketa Purohit, Gaurav Harit
@@ -33,4 +49,4 @@ main:
     pdf: https://aclanthology.org/2025.findings-naacl.320.pdf
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:IDLYIO5lT_EJ:scholar.google.com/&output=citation&scisdr=CiCrpkIGEN2CiAxjei4:ACTRDVEAAAAAarNlYi6c_C1BoAs9LJmAFM5f6-c&scisig=ACTRDVEAAAAAarNlYiSXkxgKcNJ8j2LvZIukiHU&scisf=4&ct=citation&cd=-1&hl=en
     notes: Poster Presentation
-    image: ./assets/img/tabcomp.jpg
+    image: ./assets/img/tabcomp.png
