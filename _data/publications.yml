@@ -17,7 +17,7 @@ main:
     
   - title: "INDOTABVQA: A Benchmark for Cross-Lingual Table Understanding in Bahasa Indonesia Documents"
     authors: <strong>Somraj Gautam*</strong>, Anathapindika Dravichi, Gaurav Harit
-    conference_short: ACL
+    conference_short: ACL 2026
     conference: Association for Computational Linguistics <strong>(ACL)</strong>, 2026.
     pdf: https://aclanthology.org/2026.findings-acl.1105.pdf
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:axE6JW38cfEJ:scholar.google.com/&output=citation&scisdr=CiCrpkIGEN2CiAxi54g:ACTRDVEAAAAAarNk_4gXJeQnuLQbhUVW9N2ALbs&scisig=ACTRDVEAAAAAarNk_7-RJroi-kSIuCseyRcpMy8&scisf=4&ct=citation&cd=-1&hl=en
@@ -26,7 +26,7 @@ main:
 
   - title: "Mind the (language) gap: Towards probing numerical and cross-lingual limits of lvlms"
     authors: <strong>Somraj Gautam*</strong>, Abhirama Subramanyam Penamakuri*, Abhishek Bhandari, Gaurav Harit
-    conference_short: (MRL) EMNLP Workshop
+    conference_short: (MRL) EMNLP Workshop 2025
     conference: Workshop on Multilingual Representation Learning (EMNLP) <strong>(MRL @ EMNLP)</strong>, 2025.
     pdf: https://aclanthology.org/2025.mrl-main.38.pdf
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:PaqiGL9qz08J:scholar.google.com/&output=citation&scisdr=CiCrpkIGEN2CiAxik_s:ACTRDVEAAAAAarNki_v9WFJvsLm6uMQyK4oFeQg&scisig=ACTRDVEAAAAAarNkiyNHx-NiBK13nudwp4JrJXM&scisf=4&ct=citation&cd=-1&hl=en
@@ -35,7 +35,7 @@ main:
     
   - title: "Table Detection with Active Learning"
     authors: <strong>Somraj Gautam*</strong>, Nachiketa Purohit, Gaurav Harit
-    conference_short: ICDAR
+    conference_short: ICDAR 2025
     conference: International Conference on Document Analysis and Recognition <strong>(ICDAR)</strong>, 2025.
     pdf: https://arxiv.org/pdf/2509.20003?
     bibtex: https://citation-needed.springer.com/v2/references/10.1007/978-3-032-04624-6_8?format=bibtex&flavour=citation
@@ -44,7 +44,7 @@ main:
 
   - title: "TabComp: A Dataset for Visual Table Reading Comprehension"
     authors: <strong>Somraj Gautam</strong>, Abhishek Bhandari, Gaurav Harit
-    conference_short: NAACL
+    conference_short: NAACL 2025
     conference: Nations of the Americas Chapter of the Association for Computational Linguistics <strong>(NAACL)</strong>, 2025.
     pdf: https://aclanthology.org/2025.findings-naacl.320.pdf
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:IDLYIO5lT_EJ:scholar.google.com/&output=citation&scisdr=CiCrpkIGEN2CiAxjei4:ACTRDVEAAAAAarNlYi6c_C1BoAs9LJmAFM5f6-c&scisig=ACTRDVEAAAAAarNlYiSXkxgKcNJ8j2LvZIukiHU&scisf=4&ct=citation&cd=-1&hl=en
