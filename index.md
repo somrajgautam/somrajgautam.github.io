@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student in the CSE Dept. at [IIT Jodhpur](https://iitj.ac.in/), specializing in Multimodal Document image analysis (with a focus on table image understanding). Before that, I obtained my Master's degree in Computer Science and Engineering from [IIT Dhanbad](https://www.iitism.ac.in/), and a Bachelor's degree from [BIET Jhansi](https://bietjhs.ac.in/), India.
+I am currently a Research Associate at [IIT Gandhinagar](https://iitgn.ac.in/), working with [Dr. Mayank Singh](https://mayank4490.github.io/) under an ANRF-funded project, Chitrabhasha. I submitted my Ph.D. thesis at [IIT Jodhpur](https://iitj.ac.in/), specializing in Multimodal Document image analysis (with a focus on table image understanding), under the supervision of [Dr. Gaurav Harit](https://home.iitj.ac.in/~gharit/gharit/index.html). Before that, I obtained my Master's degree in Computer Science and Engineering from [IIT Dhanbad](https://www.iitism.ac.in/), and a Bachelor's degree from [BIET Jhansi](https://bietjhs.ac.in/), India.
 
 ## Research Interests
 
@@ -18,7 +18,7 @@ I am a Ph.D. student in the CSE Dept. at [IIT Jodhpur](https://iitj.ac.in/), spe
 
 ## News
 
-- **[Oct. 2026]** Appointed as Research Associate - 1 under Prof. Mayank Singh in IIT Gandhinagar.
+- **[Oct. 2026]** Appointed as Research Associate under Dr. Mayank Singh at IIT Gandhinagar.
 - **[July. 2026]** PhD Thesis Submitted
 - **[July. 2026]** Our paper about Cross-Lingual (ASEAN Language) Table understanding is accepted to ACL 2026.
 - **[Nov. 2025]** Our paper about Cross-Lingual (Indic Language) Table understanding is accepted to the MRL Workshop (EMNLP 2026).
