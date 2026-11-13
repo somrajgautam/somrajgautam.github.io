@@ -1,8 +1,8 @@
 main:
   - title: "Fragmented Financials ♢: Graph-Augmented Reasoning Across Multiple Financial Tables"
-    authors: <strong>Somraj Gautam*</strong>, Abhishek Bhandari, Gaurav Harit <strong>(EACL)</strong>, 2027
+    authors: <strong>Somraj Gautam*</strong>, Abhishek Bhandari, Gaurav Harit 
     conference_short: EACL 2027
-    conference: European Chapter of the Association for Computational Linguistics
+    conference: European Chapter of the Association for Computational Linguistics <strong>(EACL)</strong>, 2027
     pdf: null
     bibtex: null
     image: ./assets/img/fragment.png
