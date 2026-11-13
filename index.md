@@ -18,6 +18,7 @@ I am currently a Research Associate at [IIT Gandhinagar](https://iitgn.ac.in/), 
 
 ## News
 
+- **[Nov. 2026]** Our paper about multi-table image reasoning is accepted in EACL 2027.
 - **[Oct. 2026]** Appointed as Research Associate under Dr. Mayank Singh at IIT Gandhinagar.
 - **[July. 2026]** PhD Thesis Submitted
 - **[July. 2026]** Our paper about Cross-Lingual (ASEAN Language) Table understanding is accepted to ACL 2026.
